@@ -1,0 +1,11 @@
+{
+    "name": "manoj/mvc",
+    "description": "This is sample project",
+    "authors": [
+        {
+            "name": "Manoj Shahi",
+            "email": "manoj.shahi.ms@gmail.com"
+        }
+    ],
+    "require": {}
+}
